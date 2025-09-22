@@ -1,0 +1,11 @@
+{
+  "name": "ai-website-builder",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node api/ai-generate.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
